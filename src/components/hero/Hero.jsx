@@ -39,7 +39,7 @@ const sliderVariants = {
 
 const Hero = () => {
   return (
-    <div className="hero">
+    <div className="hero" style={{padding: "34px"}}>
       <div className="wrapper">
         <motion.div
           className="textContainer"
